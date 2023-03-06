@@ -8,3 +8,7 @@
 $ git merge
 Join two or more development histories together
 ```
+#### The checked lists are done:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
